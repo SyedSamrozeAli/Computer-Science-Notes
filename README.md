@@ -35,10 +35,10 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 - [DLD Chapter#07.pdf](SEMESTER-02/DLD/DLD%20Chapter%2307.pdf)
 - [DLD Notes.pdf](SEMESTER-02/DLD/DLD%20Notes.pdf)
 - [DLD-CHP#09.pdf](SEMESTER-02/DLD/DLD-CHP%2309.pdf)
-- [Syed Samroze Ali (Assignment#01) ].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#02) ].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#03) ].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#04) ].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2304%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#01) \].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#02) \].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#03) \].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#04) \].pdf](SEMESTER-02/DLD/Syed%20Samroze%20Ali%20%28Assignment%2304%29%20%5D.pdf)
 
 ### [Differential Equation](SEMESTER-02/Differential%20Equation)
 
@@ -48,9 +48,9 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 - [DE-Ex#12.4(Solution).pdf](SEMESTER-02/Differential%20Equation/DE-Ex%2312.4%28Solution%29.pdf)
 - [Formula Sheet.pdf](SEMESTER-02/Differential%20Equation/Formula%20Sheet.pdf)
 - [Formulas (Derivatives & Integration).pdf](SEMESTER-02/Differential%20Equation/Formulas%20%28Derivatives%20%26%20Integration%29.pdf)
-- [Syed Samroze Ali (Assignment#01) ].pdf](SEMESTER-02/Differential%20Equation/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#03) ].pdf](SEMESTER-02/Differential%20Equation/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
-- [[ Syed Samroze Ali (Assignment#02) ].pdf](SEMESTER-02/Differential%20Equation/%5B%20Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#01) \].pdf](SEMESTER-02/Differential%20Equation/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#03) \].pdf](SEMESTER-02/Differential%20Equation/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
+- [[ Syed Samroze Ali (Assignment#02) \].pdf](SEMESTER-02/Differential%20Equation/%5B%20Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
 
 ### [OOP](SEMESTER-02/OOP)
 
@@ -79,9 +79,9 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 
 ### [Discrete Structure](SEMESTER-03/Discrete%20Structure)
 
-- [Syed Samroze Ali (Assignment#01) ].pdf](SEMESTER-03/Discrete%20Structure/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#02) ].pdf](SEMESTER-03/Discrete%20Structure/Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#03) ].pdf](SEMESTER-03/Discrete%20Structure/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#01) \].pdf](SEMESTER-03/Discrete%20Structure/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#02) \].pdf](SEMESTER-03/Discrete%20Structure/Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#03) \].pdf](SEMESTER-03/Discrete%20Structure/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
 
 ### [Linear Algebra](SEMESTER-03/Linear%20Algebra)
 
@@ -90,9 +90,9 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 - [LA Notes Samroze.pdf](SEMESTER-03/Linear%20Algebra/LA%20Notes%20Samroze.pdf)
 - [LA Solution Manual.pdf](SEMESTER-03/Linear%20Algebra/LA%20Solution%20Manual.pdf)
 - [Quizlet Solution Link.xlsx](SEMESTER-03/Linear%20Algebra/Quizlet%20Solution%20Link.xlsx)
-- [Syed Samroze Ali (Assignment#01) ].pdf](SEMESTER-03/Linear%20Algebra/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#02) ].pdf](SEMESTER-03/Linear%20Algebra/Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
-- [Syed Samroze Ali (Assignment#03) ].pdf](SEMESTER-03/Linear%20Algebra/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#01) \].pdf](SEMESTER-03/Linear%20Algebra/Syed%20Samroze%20Ali%20%28Assignment%2301%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#02) \].pdf](SEMESTER-03/Linear%20Algebra/Syed%20Samroze%20Ali%20%28Assignment%2302%29%20%5D.pdf)
+- [Syed Samroze Ali (Assignment#03) \].pdf](SEMESTER-03/Linear%20Algebra/Syed%20Samroze%20Ali%20%28Assignment%2303%29%20%5D.pdf)
 
 
 ## SEMESTER-04
