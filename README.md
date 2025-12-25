@@ -220,6 +220,8 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 - [DevOps MID-I Notes.pdf](SEMESTER-07/DevOps/DevOps%20MID-I%20Notes.pdf)
 - [DevOps MID-II Notes.pdf](SEMESTER-07/DevOps/DevOps%20MID-II%20Notes.pdf)
 - [Docker Notes.pdf](SEMESTER-07/DevOps/Docker%20Notes.pdf)
+- [Kubernetes Notes.pdf](SEMESTER-07/DevOps/Kubernetes%20Notes.pdf)
+- [Terraform Notes.pdf](SEMESTER-07/DevOps/Terraform%20Notes.pdf)
 
 ### [IS](SEMESTER-07/IS)
 
