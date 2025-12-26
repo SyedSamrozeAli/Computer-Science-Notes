@@ -222,6 +222,10 @@ Click on the links below to navigate to specific semesters, courses, and notes.
 - [Docker Notes.pdf](SEMESTER-07/DevOps/Docker%20Notes.pdf)
 - [Kubernetes Notes.pdf](SEMESTER-07/DevOps/Kubernetes%20Notes.pdf)
 - [Terraform Notes.pdf](SEMESTER-07/DevOps/Terraform%20Notes.pdf)
+- [AWS Trusted Advisor](SEMESTER-07/DevOps/AWS%20Trusted%20Advisor.pdf)
+- [AWS RDS](SEMESTER-07/DevOps/AWS%20RDS.pdf)
+- [AWS Cloud Watch](SEMESTER-07/DevOps/AWS%20Cloud%20Watch.pdf)
+- [Iac - Infrastructure As Code](SEMESTER-07/DevOps/IaC%20-%20Infrastructure%20As%20Code.pdf)
 
 ### [IS](SEMESTER-07/IS)
 
